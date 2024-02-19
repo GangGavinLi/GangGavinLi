@@ -2,10 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor
-subtitle: Departmnt of Mechanical Engineering
-subtitle: Mississippi State University
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor <br> Departmnt of Mechanical Engineering <br> Mississippi State University <br> <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
